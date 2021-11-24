@@ -3,6 +3,8 @@ import config
 import schedule
 from random import randint
 import warnings
+from config import marketPair
+from config import quoteAsset
 warnings.filterwarnings('ignore')
 
 import numpy as np
