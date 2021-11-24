@@ -1,0 +1,5 @@
+BINANCE_API_KEY = 'API_KEY'
+BINANCE_SECRET_KEY = 'SECRET_KEY'
+
+marketPair = 'ETH/USDT'
+quoteAsset = '0.02'
