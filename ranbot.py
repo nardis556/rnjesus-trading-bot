@@ -2,8 +2,6 @@ import ccxt
 import config
 import schedule
 from random import randint
-from config import marketPair
-from config import quoteAsset
 import warnings
 warnings.filterwarnings('ignore')
 
