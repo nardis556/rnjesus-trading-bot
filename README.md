@@ -1,5 +1,5 @@
 # rnjesus-trading-bot
 
-based on https://www.youtube.com/watch?v=1PEyddA1y5E copy pasted most of the code
+inspired by https://www.youtube.com/watch?v=1PEyddA1y5E copy pasted most of the code
 
 use at your own risk
